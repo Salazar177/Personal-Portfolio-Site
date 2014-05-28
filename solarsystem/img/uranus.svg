@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="4.525px" height="11.509px" viewBox="0 0 4.525 11.509" enable-background="new 0 0 4.525 11.509" xml:space="preserve">
+<g>
+	<circle fill="#6CB3E6" cx="2.262" cy="5.755" r="2.262"/>
+	<g opacity="0.75">
+		<defs>
+			<circle id="SVGID_1_" opacity="0.75" cx="2.262" cy="5.755" r="2.156"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill="#009BDE"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<circle clip-path="url(#SVGID_2_)" fill="#009BDE" cx="2.262" cy="5.755" r="2.156"/>
+		<rect x="3.184" y="3.082" opacity="0.15" clip-path="url(#SVGID_2_)" fill="#0055B8" width="0.699" height="5.16"/>
+		<rect x="2.998" y="3.082" opacity="0.15" clip-path="url(#SVGID_2_)" fill="#0055B8" width="0.699" height="5.16"/>
+		<rect x="0.709" y="3.082" opacity="0.15" clip-path="url(#SVGID_2_)" fill="#0055B8" width="0.698" height="5.16"/>
+		<rect x="1.686" y="3.082" opacity="0.15" clip-path="url(#SVGID_2_)" fill="#0055B8" width="0.698" height="5.16"/>
+		<rect x="1.912" y="3.082" opacity="0.15" clip-path="url(#SVGID_2_)" fill="#0055B8" width="0.699" height="5.16"/>
+		<rect x="2.262" y="3.082" opacity="0.15" clip-path="url(#SVGID_2_)" fill="#0055B8" width="0.699" height="5.16"/>
+	</g>
+	<g>
+		<path fill="#6CB3E6" d="M2.171,0.18c-0.007,0.075-0.014,0.188-0.02,0.334c-0.013,0.288-0.023,0.698-0.033,1.22
+			C2.108,2.25,2.102,2.848,2.096,3.499C2.143,3.495,2.19,3.493,2.238,3.493c0.005-0.727,0.014-1.357,0.023-1.869
+			C2.272,2.136,2.28,2.766,2.286,3.493c0.005,0.675,0.008,1.434,0.008,2.262c0,0.829-0.003,1.586-0.008,2.261
+			C2.28,8.743,2.272,9.373,2.262,9.886c-0.01-0.513-0.018-1.143-0.023-1.87c-0.048,0-0.095-0.002-0.142-0.005
+			c0.005,0.65,0.012,1.248,0.022,1.764c0.01,0.522,0.02,0.933,0.033,1.221c0.006,0.145,0.013,0.258,0.02,0.333
+			c0.008,0.102,0.015,0.181,0.091,0.181c0.076,0,0.083-0.079,0.092-0.181c0.007-0.075,0.013-0.188,0.019-0.333
+			c0.013-0.288,0.023-0.698,0.033-1.221C2.416,9.259,2.423,8.66,2.428,8.011c0.005-0.703,0.008-1.468,0.008-2.256
+			S2.433,4.202,2.428,3.499C2.423,2.848,2.416,2.25,2.406,1.734c-0.01-0.521-0.021-0.932-0.033-1.22
+			C2.367,0.368,2.361,0.255,2.354,0.18C2.345,0.08,2.338,0,2.262,0C2.186,0,2.179,0.08,2.171,0.18z"/>
+	</g>
+	<circle fill="#E6E7E8" cx="1.586" cy="3.302" r="0.042"/>
+	<circle fill="#E6E7E8" cx="1.384" cy="2.51" r="0.042"/>
+	<circle fill="#E6E7E8" cx="3.17" cy="2.164" r="0.042"/>
+	<circle fill="#E6E7E8" cx="2.937" cy="6.196" r="0.042"/>
+	<circle fill="#E6E7E8" cx="1.971" cy="8.685" r="0.043"/>
+</g>
+</svg>

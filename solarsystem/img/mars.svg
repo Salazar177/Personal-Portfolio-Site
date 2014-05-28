@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="5.029px" height="4.525px" viewBox="0 0 5.029 4.525" enable-background="new 0 0 5.029 4.525" xml:space="preserve">
+<g>
+	<circle fill="#F19E79" cx="2.28" cy="2.263" r="2.262"/>
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="2.28" cy="2.263" r="2.156"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<circle clip-path="url(#SVGID_2_)" fill="#ED8258" cx="2.28" cy="2.263" r="2.156"/>
+		<polygon opacity="0.25" clip-path="url(#SVGID_2_)" points="2.123,1.058 1.779,1.248 1.879,1.393 2.93,1.438 3.037,1.828 
+			3.255,1.802 3.998,0.724 3.6,0.152 2.648,1.066 		"/>
+		<polygon opacity="0.25" clip-path="url(#SVGID_2_)" points="3.998,2.862 3.491,2.897 3.428,2.443 2.992,2.244 2.757,2.525 
+			2.901,2.906 2.703,3.169 2.622,3.612 0.937,3.16 0.782,3.34 0.492,3.023 0.302,2.534 0.049,2.381 0.142,4.956 2.992,4.968 
+			4.865,3.355 4.786,2.607 4.587,2.172 		"/>
+		<polygon opacity="0.25" clip-path="url(#SVGID_2_)" points="0.994,1.58 0.728,1.967 -0.082,2.414 0.099,1.192 1.018,0.033 
+			1.839,-0.147 2.503,0.058 1.453,0.76 1.465,1.58 1.295,1.799 		"/>
+		
+			<ellipse transform="matrix(0.9233 -0.3842 0.3842 0.9233 -0.386 1.591)" opacity="0.25" clip-path="url(#SVGID_2_)" cx="3.79" cy="1.762" rx="0.079" ry="0.217"/>
+		<path opacity="0.9" clip-path="url(#SVGID_2_)" fill="#E6E7E8" d="M1.78,0.383c0,0,0.009,0.245,0.714,0.104L2.34,0.378
+			l0.245-0.072c0,0-0.083-0.113-0.459-0.091C2.125,0.215,1.793,0.261,1.78,0.383z"/>
+	</g>
+	<polygon fill="#939598" points="4.435,0.307 4.641,0.307 4.745,0.409 4.702,0.554 4.579,0.554 4.538,0.451 4.455,0.451 	"/>
+	<polygon fill="#939598" points="4.868,1.035 4.884,0.935 4.944,0.873 5.029,0.897 5.029,0.97 4.946,1.087 	"/>
+</g>
+</svg>

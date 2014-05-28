@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="4.792px" height="4.524px" viewBox="0 0 4.792 4.524" enable-background="new 0 0 4.792 4.524" xml:space="preserve">
+<g>
+	<circle fill="#3B7CCA" cx="2.262" cy="2.262" r="2.262"/>
+	<g opacity="0.75">
+		<defs>
+			<circle id="SVGID_1_" opacity="0.75" cx="2.263" cy="2.267" r="2.157"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<circle clip-path="url(#SVGID_2_)" fill="#0055B8" cx="2.263" cy="2.267" r="2.157"/>
+		<rect x="-0.226" y="3.189" opacity="0.5" clip-path="url(#SVGID_2_)" fill="#3B7CCA" width="5.161" height="0.696"/>
+		<rect x="-0.226" y="3.003" opacity="0.5" clip-path="url(#SVGID_2_)" fill="#0055B8" width="5.161" height="0.699"/>
+		<rect x="-0.226" y="0.714" opacity="0.5" clip-path="url(#SVGID_2_)" fill="#2174C7" width="5.161" height="0.699"/>
+		<rect x="-0.226" y="1.919" opacity="0.5" clip-path="url(#SVGID_2_)" fill="#3B7CCA" width="5.161" height="0.698"/>
+	</g>
+	<ellipse opacity="0.1" fill="#414042" cx="2.982" cy="3.438" rx="0.426" ry="0.144"/>
+	<ellipse opacity="0.1" fill="#414042" cx="1.143" cy="3.889" rx="0.213" ry="0.071"/>
+	<circle fill="#414042" cx="4.792" cy="1.362" r="0.042"/>
+</g>
+</svg>
